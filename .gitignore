@@ -1,0 +1,30 @@
+# Models
+*.pkl
+*.joblib
+models/
+
+# Data (never commit raw data)
+*.csv
+*.xlsx
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

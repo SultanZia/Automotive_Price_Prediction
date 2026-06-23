@@ -1,0 +1,25 @@
+# Automotive Price Prediction — Python Dependencies
+# Python 3.10+
+# pip install -r requirements.txt
+
+# Core ML
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Encoding
+category-encoders==2.6.3
+
+# Interpretability
+shap==0.44.1
+
+# Data
+numpy==1.26.4
+pandas==2.2.1
+
+# Visualisation
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Utilities
+joblib==1.4.2
